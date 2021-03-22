@@ -1,0 +1,21 @@
+.rouge {
+color: red;
+}
+
+.bleu {
+    color: blue;
+}
+
+.p_special {
+    background-color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.souligné {
+    text-decoration: underline
+}
+
+.italique {
+    font-style: italic;
+}
